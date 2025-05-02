@@ -8,9 +8,6 @@ git clone <URL>
 
 --------------
 
-A continuación, ingresa al directorio clonado .
-
--------------
 
 # Paso 1. Entrar al directorio de Moodle.
 
